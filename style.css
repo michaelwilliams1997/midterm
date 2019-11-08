@@ -21,12 +21,14 @@ header {
 /* ALL NAV STYLES BELOW */
 
 .bannerbackground{
-	background-image: url("images/craigslist_02.png");
+	background-image: url("images/purple.jpeg");
 	background-repeat: no-repeat;
 	background-size:auto;
 }
 body { 
-    background-color:mediumpurple;
+    background:url("images/purple.jpeg")
+  
+	background-size:auto;
 }
 
 
